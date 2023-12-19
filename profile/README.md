@@ -15,8 +15,7 @@
 - Monitoring
 - Alerting
 - Automation
-- Endpoints
-- Real-time data processing and analytics
+- Endpoints and RPC
 
 #
 
